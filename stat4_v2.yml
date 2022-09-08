@@ -1,0 +1,15 @@
+name: STAT4_v2
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - r-seurat
+  - notebook
+  - r-irkernel
+  - nb_conda_kernels
+  - r-ggpubr
+  - r-svglite
+  - r-hgnchelper
+  - bioconductor-limma
+prefix: /home/hratch/anaconda3/envs/STAT4_v2
