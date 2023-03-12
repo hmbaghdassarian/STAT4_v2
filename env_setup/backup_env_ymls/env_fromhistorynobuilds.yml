@@ -1,0 +1,14 @@
+name: STAT4
+channels:
+  - defaults
+dependencies:
+  - r-seurat=4.1.1
+  - r-irkernel=1.3
+  - r-ggpubr=0.4.0
+  - r-svglite=2.1.0
+  - r-hgnchelper=0.8.1
+  - bioconductor-limma=3.50.1
+  - jsonschema=4.15.0
+  - r-snow=0.4_4
+  - r-devtools
+prefix: /home/hratch/miniconda3/envs/STAT4
